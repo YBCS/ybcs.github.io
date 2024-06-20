@@ -45,7 +45,7 @@ A predator RoleAgent will look for its closest prey withing its range(field of v
 > A quadtree is a tree data structure in which each internal node has exactly four children. Quadtrees are the two-dimensional analog of octrees and are most often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions.  --wikipedia
 
 ### Got Questions?
-If you have any questions, feel free to leave a comment! I'm also active on [X (Twiter)](https://x.com/Budhachandra_) and email.
+If you have any questions, feel free to leave a comment! I'm also active on [X (Twitter)](https://x.com/Budhachandra_) and email.
 
 ### References
 - [Souce Code of Project](https://github.com/YBCS/RPS_Play)
