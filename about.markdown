@@ -35,11 +35,11 @@ My research broadly focuses on the intersection of machine learning and biomedic
 
 ## Publications
 
-**[Thesis Title — Placeholder]**  
+**[Thesis Title]**
 Budhachandra Yumkhaibam. M.S. Thesis, University of Texas at Arlington. *(In preparation)*  
 [PDF coming soon]
 
-**[Paper Title — Placeholder]**  
+**[Paper Title]**
 Budhachandra Yumkhaibam et al. *(In preparation)*
 
 ---
@@ -47,7 +47,7 @@ Budhachandra Yumkhaibam et al. *(In preparation)*
 ## Open Source Contributions
 
 **[Oppia](https://github.com/oppia/oppia/issues?q=state%3Aclosed+author%3AYBCS)**
-Contributed to Oppia, a large-scale open-source interactive learning platform. Key contributions include Python 3 migration tasks and removal of significant portions of unused/deprecated code — both high-priority efforts in the project's codebase modernization initiative.
+Contributed to Oppia, a large-scale open-source interactive learning platform.
 
 **[NeuroML / pyNeuroML](https://github.com/NeuroML/pyNeuroML/pulls?q=state%3Aclosed+is%3Apr+author%3AYBCS)**
 3 merged PRs: added matplotlib animation support for generated plots, introduced default figure-saving behavior, and added a new CLI flag (`-swc`).
