@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
-  <img src="/assets/ME_img.jpg" alt="Budhachandra Yumkhaibam" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;" />
+  <img src="/assets/ME_img.jpg" alt="Yumkhaibam Budhachandra" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;" />
   <div>
-    <h1 style="margin-top: 0;">Budhachandra Yumkhaibam</h1>
+    <h1 style="margin-top: 0;">Yumkhaibam Budhachandra</h1>
     <p>
-      Final year M.S. Computer Science student at the University of Texas at Arlington.<br/>
+      Final year M.S. Computer Science student, University of Texas at Arlington.<br/>
       Research Assistant, Center for Health Informatics (CIHI), UTA.<br/>
       Advised by <strong>Dr. Jacob M. Luber</strong> and <strong>Dr. Jennifer Woo</strong>.
     </p>

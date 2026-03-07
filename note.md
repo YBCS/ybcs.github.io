@@ -3,6 +3,7 @@
 
 commands:
 ```bash
+# to serve the site locally (generates the _site/ directory)
 bundle exec jekyll serve
 bundle exec jekyll serve --liverelaod
 jekyll serve --watch
