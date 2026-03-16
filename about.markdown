@@ -10,13 +10,14 @@ permalink: /about/
     <h1 style="margin-top: 0;">Yumkhaibam Budhachandra</h1>
     <p>
       Final year M.S. Computer Science student, University of Texas at Arlington.<br/>
-      Research Assistant, Center for Health Informatics (CIHI), UTA.<br/>
+      Graduate Research Assistant, Center for Health Informatics (CIHI), UTA.<br/>
       Advised by <strong>Dr. Jacob M. Luber</strong> and <strong>Dr. Jennifer Woo</strong>.
     </p>
     <p>
       <a href="https://www.linkedin.com/in/budhachandra-yumkhaibam-bb655b1b5/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=OU35URcAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;·&nbsp;
-      <a href="https://github.com/YBCS" target="_blank">GitHub</a>
+      <a href="https://github.com/YBCS" target="_blank">GitHub</a> &nbsp;·&nbsp;
+      <a href="/assets/spring_26_buda_cv.pdf" target="_blank">CV</a>
     </p>
   </div>
 </div>
@@ -28,19 +29,37 @@ permalink: /about/
 My research broadly focuses on the intersection of machine learning and biomedical informatics. Current areas of interest include:
 
 - Pre-term birth modelling and prediction using machine learning
-- Computational Psychology
-- Bioinformatics
+- Computational Neuroscience
+- AI for Mental Health
+- Interpretable AI
+- Pain Modelling
+
 
 ---
 
 ## Publications
 
-**[Thesis Title]**
-Budhachandra Yumkhaibam. M.S. Thesis, University of Texas at Arlington. *(In preparation)*  
-[PDF coming soon]
+<div style="border-left: 3px solid #ccc; padding-left: 1rem; margin-bottom: 1.5rem;">
+  <p style="margin: 0 0 0.25rem 0;">
+    <strong>Multi-Modal Modeling of Preterm Birth Risk in an Underrepresented Black/African-Ancestry Cohort</strong>
+  </p>
+  <p style="margin: 0 0 0.25rem 0; color: #555;">
+    Budhachandra Yumkhaibam &mdash; M.S. Thesis, University of Texas at Arlington
+  </p>
+  <p style="margin: 0 0 0.5rem 0; font-style: italic; color: #888;">In preparation</p>
+  <a href="/assets/Master_Thesis_Buda_Feb_2026.pdf" target="_blank">[PDF]</a> &nbsp;
+  <a href="/assets/Presentation1.pdf" target="_blank">[Slides]</a>
+</div>
 
-**[Paper Title]**
-Budhachandra Yumkhaibam et al. *(In preparation)*
+<div style="border-left: 3px solid #ccc; padding-left: 1rem; margin-bottom: 1.5rem;">
+  <p style="margin: 0 0 0.25rem 0;">
+    <strong>Stable Pipeline for Multi Modal analysis on preterm birth for small datasets</strong>
+  </p>
+  <p style="margin: 0 0 0.25rem 0; color: #555;">
+    Budhachandra Yumkhaibam et al.
+  </p>
+  <p style="margin: 0; font-style: italic; color: #888;">In preparation</p>
+</div>
 
 ---
 
