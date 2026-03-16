@@ -11,13 +11,13 @@ permalink: /about/
     <p>
       Final year M.S. Computer Science student, University of Texas at Arlington.<br/>
       Graduate Research Assistant, Center for Health Informatics (CIHI), UTA.<br/>
-      Advised by <strong>Dr. Jacob M. Luber</strong> and <strong>Dr. Jennifer Woo</strong>.
+      Advised by <a href="https://scholar.google.com/citations?user=qkLcROYAAAAJ&hl=en" target="_blank"><strong>Dr. Jacob M. Luber</strong></a> and <a href="https://scholar.google.com/citations?user=86bE3q4AAAAJ&hl=en" target="_blank"><strong>Dr. Jennifer Woo</strong></a>.
     </p>
     <p>
       <a href="https://www.linkedin.com/in/budhachandra-yumkhaibam-bb655b1b5/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=OU35URcAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;·&nbsp;
       <a href="https://github.com/YBCS" target="_blank">GitHub</a> &nbsp;·&nbsp;
-      <a href="/assets/spring_26_buda_cv.pdf" target="_blank">CV</a>
+      <a href="/assets/buda_cv.pdf" target="_blank">CV</a>
     </p>
   </div>
 </div>
@@ -47,7 +47,7 @@ My research broadly focuses on the intersection of machine learning and biomedic
     Budhachandra Yumkhaibam &mdash; M.S. Thesis, University of Texas at Arlington
   </p>
   <p style="margin: 0 0 0.5rem 0; font-style: italic; color: #888;">In preparation</p>
-  <a href="/assets/Master_Thesis_Buda_Feb_2026.pdf" target="_blank">[PDF]</a> &nbsp;
+  <a href="/assets/Master_Thesis_Buda.pdf" target="_blank">[PDF]</a> &nbsp;
   <a href="/assets/Presentation1.pdf" target="_blank">[Slides]</a>
 </div>
 
