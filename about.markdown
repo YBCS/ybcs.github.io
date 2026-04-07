@@ -30,10 +30,10 @@ permalink: /about/
 My research broadly focuses on the intersection of machine learning and biomedical informatics. Current areas of interest include:
 
 - Pre-term birth modelling and prediction using machine learning
-- Computational Neuroscience
+- Multi-modal data modeling
+- Medical Imaging
 - AI for Mental Health
-- Interpretable AI
-- Pain Modelling
+- Interpretable AI in Healthcare
 
 
 ---
