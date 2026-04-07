@@ -5,7 +5,7 @@ commands:
 ```bash
 # to serve the site locally (generates the _site/ directory)
 bundle exec jekyll serve
-bundle exec jekyll serve --liverelaod
+bundle exec jekyll serve --livereload
 jekyll serve --watch
 ```
 <!-- if config is changed : must restart server -->

@@ -17,6 +17,7 @@ permalink: /about/
       <a href="https://www.linkedin.com/in/budhachandra-yumkhaibam-bb655b1b5/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=OU35URcAAAAJ&hl=en" target="_blank">Google Scholar</a> &nbsp;·&nbsp;
       <a href="https://github.com/YBCS" target="_blank">GitHub</a> &nbsp;·&nbsp;
+      <a href="/assets/buda_cv_academic.pdf" target="_blank">Academic CV</a> &nbsp;·&nbsp;
       <a href="/assets/buda_cv.pdf" target="_blank">CV</a>
     </p>
   </div>
